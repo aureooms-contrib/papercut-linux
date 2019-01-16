@@ -1,0 +1,8 @@
+[version]
+name-with-version=PaperCut NG 18.1.4 (Build 44152)
+name=PaperCut NG
+version-major=18
+version-minor=1
+version-patch=4
+version-suffix=
+version-build=44152
